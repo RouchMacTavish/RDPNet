@@ -10,3 +10,4 @@ The convolutional block of RDPNet contains two 3x3 convolutional layers. It avai
 We achieve classification accuracy of 93.720% on CIFAR-10, 74.510% on CIFAR-100. 
 RDPNet has a good performance compared with some classical networks (VGGs, Resnets, DenseNet-201) and some state-of-the-art lightweight networks (MobileNetV2, GhostNet). 
 
+We provide a pre-trained model of RDPNet in the file named pre_train_model
